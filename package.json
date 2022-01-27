@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-api-template",
+  "version": "1.0.0",
+  "description": "A default NodeJS REST-API template",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lenteguppie/NodeJS-API-template.git"
+  },
+  "keywords": [
+    "API",
+    "express",
+    "REST",
+    "NodeJS"
+  ],
+  "author": "Lenteguppie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lenteguppie/NodeJS-API-template/issues"
+  },
+  "homepage": "https://github.com/Lenteguppie/NodeJS-API-template#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security"
+  }
+}
