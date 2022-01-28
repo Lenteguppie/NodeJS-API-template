@@ -1,13 +1,3 @@
----
-title:  'routes.md'
-author:
-- Lenteguppie (Sascha Vis)
-keywords: [REST, API, Routes]
-abstract: |
-  This is a small summary where the routes folder is used for in a web API
-...
-
-
 # Waarom zou je de "Routes" map gebruiken?
 U gebruikt de Routes map zodat de code in de server.js file overzichtelijk blijft.
 U kunt hier de routes opdelen in bestanden, bijvoorbeeld per object een bestand voor de routes.

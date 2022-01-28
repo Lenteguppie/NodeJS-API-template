@@ -1,12 +1,3 @@
----
-title:  'controllers.md'
-author:
-- Lenteguppie (Sascha Vis)
-keywords: [REST, API, Routes]
-abstract: |
-  This is a small summary where the constrollers folder is used for in a web API
-...
-
 # Wat is een Controller?
 Een controller handelt de HTTP requests af. Zo kan een controller bijvoorbeeld data in een database zetten of data uit een database halen.
 

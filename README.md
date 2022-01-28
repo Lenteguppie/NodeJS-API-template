@@ -2,7 +2,7 @@
 Dit is een simpele template om een Web-API te maken in NodeJS. 
 
 # Voordat u begint
-Voordat u begint heeft moet u nog wel een aantal dingen installeren
+Voordat u begint heeft moet u nog wel een aantal dingen installeren.
 ## Benodigdheden development:
 - [NodeJS](https://nodejs.org/en/)
 - [Postman (optioneel)](https://www.postman.com/downloads/?utm_source=postman-home)
@@ -67,6 +67,5 @@ docker run [NAAM VAN UW IMAGE] -t [NAAM VAN UW CONTAINER]
 ```
 
 U kunt alle docker commando's aanpassen naar uw wensen. Hiervoor verwijs ik u door naar [de documentatie pagina van docker](https://docs.docker.com/engine/reference/run/).
-
 
 Bedankt voor het gebruiken van deze repository!

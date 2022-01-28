@@ -1,12 +1,3 @@
----
-title:  'models.md'
-author:
-- Lenteguppie (Sascha Vis)
-keywords: [REST, API, Routes]
-abstract: |
-  This is a small summary where the models folder is used for in a web API
-...
-
 # Wat is een Model?
 Een model is de structuur/template van een object. Deze wordt gebruikt zodat de data op een uniforme manier wordt verwerkt.
 
